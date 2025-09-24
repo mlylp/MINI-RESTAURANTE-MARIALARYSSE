@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: rgba(255, 221, 193, 0.747);
+}
+
+img{
+    width: 150px;
+}
+
+table,tr,th,td{
+    border: 5px solid black; border-collapse: collapse;
+}
+
+ul,li,ol{list-style-position: inside;text-align: center;}
